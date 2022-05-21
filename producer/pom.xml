@@ -6,7 +6,7 @@
     <modules>
         <module>producer-model</module>
         <module>producer-sdk</module>
-        <module>producer-stuff</module>
+        <module>producer-webapp</module>
     </modules>
 
     <parent>
